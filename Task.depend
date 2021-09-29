@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1632662953 source:c:\users\1\desktop\db\praktikum evm\task\task1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<math.h>
+
+1632662988 source:c:\users\1\desktop\db\praktikum evm\task\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<math.h>
+	"task1.h"
+
+1632662982 c:\users\1\desktop\db\praktikum evm\task\task1.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<math.h>
+
+1632926719 source:c:\users\1\desktop\7 semester\praktikum evm\task\main.cpp
+	"task1.hpp"
+	"task2.hpp"
+	"task3.hpp"
+	"task4.hpp"
+
+1632910113 c:\users\1\desktop\7 semester\praktikum evm\task\task1.h
+
+1632926945 source:c:\users\1\desktop\7 semester\praktikum evm\task\task1.cpp
+
+1632927020 source:c:\users\1\desktop\7 semester\praktikum evm\task\task2.cpp
+
+1632909657 c:\users\1\desktop\7 semester\praktikum evm\task\task2.h
+
+1632927071 source:c:\users\1\desktop\7 semester\praktikum evm\task\task3.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1632909683 c:\users\1\desktop\7 semester\praktikum evm\task\task3.h
+
+1632921745 c:\users\1\desktop\7 semester\praktikum evm\task\task4.h
+
+1632922810 source:c:\users\1\desktop\7 semester\praktikum evm\task\task4.cpp
+	<fstream>
+	<cmath>
+	"task4.hpp"
+
+1632835465 c:\users\1\desktop\7 semester\praktikum evm\task\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1632843460 source:c:\users\1\desktop\7 semester\praktikum evm\task\graph.cpp
+	<windows.h>
+	<iostream>
+	<GL\glut.h>
+	<cstdlib>
+	<cmath>
+
+1632921959 c:\users\1\desktop\7 semester\praktikum evm\task\task4.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"task4.hpp"
+
+1632927573 c:\users\1\desktop\7 semester\praktikum evm\task\task4.hpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+
+1632926864 c:\users\1\desktop\7 semester\praktikum evm\task\task1.hpp
+	<iostream>
+	<math.h>
+
+1632927011 c:\users\1\desktop\7 semester\praktikum evm\task\task2.hpp
+	<iostream>
+	<cmath>
+
+1632927098 c:\users\1\desktop\7 semester\praktikum evm\task\task3.hpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
