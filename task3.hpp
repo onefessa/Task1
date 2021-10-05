@@ -8,7 +8,7 @@ double f(double x){
     //return pow(x,2);
 }
 double f_1(double x){
-    return -40*sin(2*x)+6*x*exp(3*pow(x,2))-sin(x)*tan(cos(x))*1/cos(cos(x));
+    return -40*sin(8*x)+6*x*exp(3*pow(x,2))-sin(x)*tan(cos(x))*1/cos(cos(x));
     //return 2*x;
 }
 double R1 (double x, double h){
