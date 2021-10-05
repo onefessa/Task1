@@ -18,11 +18,7 @@ double z(double t){
 
 void task5 (){
     const double pi = 3.141592653589793;
-    double h = 0.1;
-    double x = 0;
-    double z = 1;
-    double x_K, z_K;// d; K=k+1
-    //double t_k = 0;
+    double h = 0.1, x = 0,  z = 1, x_K, z_K;// d; K=k+1 //double t_k = 0;
     int w = 1;
     cout<<"Task 5"<<endl;
     ofstream output0("5.txt");
