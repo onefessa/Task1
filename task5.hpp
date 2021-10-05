@@ -33,15 +33,6 @@ void task5 (){
             string c;
             c = "5_" +to_string(w)+"pi_"+to_string(h)+".txt";
             if (w<=100){ofstream output(c);
-            /*
-            for (int n=0; n<=T1; n++){
-                a = x + h*z;
-                b = z - h*x;
-                x = a;
-                z = b;
-                output<<x<<" "<<z<<endl;
-            }
-            */
             for(int n=0; n < w*pi/h; n++){
                 x_K = x + h*z;
                 z_K = z - h*x;
